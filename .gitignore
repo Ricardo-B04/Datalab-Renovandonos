@@ -1,0 +1,22 @@
+# R
+.RData
+.Rhistory
+.Rproj.user
+*.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/cellar/
+
+# Datos sensibles
+*.csv
+*.xlsx
+config.R
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

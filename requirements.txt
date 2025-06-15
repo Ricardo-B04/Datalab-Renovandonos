@@ -1,0 +1,8 @@
+dplyr
+DT
+ggplot2
+plotly
+renv
+rsconnect
+shiny
+shinydashboard
