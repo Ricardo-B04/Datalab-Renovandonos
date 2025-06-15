@@ -16,7 +16,7 @@
 3. Selecciona "New Project from Git Repository"
 
 #### Paso 2: Configurar el repositorio
-1. Pega la URL de tu repositorio GitHub: `https://github.com/Ricardo-B04/Datalab-Renovandonos`
+1. Pega la URL del repositorio GitHub: `https://github.com/Ricardo-B04/Datalab-Renovandonos`
 2. PositCloud clonará automáticamente el repositorio
 3. Espera a que se complete la importación
 
