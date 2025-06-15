@@ -1,4 +1,4 @@
-# Guía de Despliegue - Aplicación Shiny Diágnostico de Zonas
+# Guía de Despliegue - Aplicación Shiny Diagnóstico de Zonas
 
 ## Índice
 1. [Importar desde GitHub a PositCloud](#importar-desde-github-a-positcloud)
